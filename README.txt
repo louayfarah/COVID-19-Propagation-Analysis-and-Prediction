@@ -19,6 +19,7 @@ predictions globally and locally.
 -----------------------USED DEVELOPMENT ENVIRONMENT AND TOOLS----------------------------
 
 -Google Colaboratory
+-Jupyter Notebook
 -Python
 -Requests
 -Numpy
