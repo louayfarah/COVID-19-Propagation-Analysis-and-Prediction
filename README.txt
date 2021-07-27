@@ -39,6 +39,7 @@ the predictor uses a set of regression models in order to:
 >>Predict cumulative deaths n days after the day when the last observation was made.
 
 NOTE: In order to get the most precise prediction, n should be between 1 and 30 inclusive.
+NOTE: Please enable 'Default light' theme mode for a better experience.
 NOTE: Dataset link: https://covid19.who.int/WHO-COVID-19-global-data.csv
 
 
