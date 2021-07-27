@@ -7,7 +7,7 @@
 ---------------------------------DESCRIPTION--------------------------------------------
 
 -COVID-19 global and local propagation analysis through preprocessing WHO official datasets, 
-exploring data, visualizing it and discovering properties and features correlations.
+exploring data, visualizing it, and discovering properties and features correlations.
 -Training regression models that predict future deaths and cases, 
 both globally and locally (in Tunisia).
 -Creating figures that represent both actual and predicted observations.
