@@ -45,17 +45,17 @@ NOTE: Dataset link: https://covid19.who.int/WHO-COVID-19-global-data.csv
 
 -------------------------------HOW TO USE THE PREDICTOR?----------------------------------
 
-1)Run 'predict.py' file, located in 'COVID-19 propagation predictor\Application\predictor' directory
+1)Run 'predict.py' file, located in 'COVID-19-Propagation-Analysis-and-Prediction\Application\predictor' directory.
 
 
 --------------------------------HOW TO UPDATE THE PREDICTOR?-------------------------------
 
-1)Run 'update.py' file, located in 'COVID-19 propagation predictor\Application\predictor' directory	
+1)Run 'update.py' file, located in 'COVID-19-Propagation-Analysis-and-Prediction\Application\predictor' directory.
 
 
 ----------------HOW TO INSTALL PYTHON AND THE REQUIRED LIBRARIES AND MODULES?--------------
 
-1)Install the latest version of python from the official website: 'www.python.org'
+1)Install the latest version of python from the official website: 'www.python.org'.
 2)open the terminal, than type this 4 commands: 
 			'pip install pandas'
 		        'pip install matplotlib'
